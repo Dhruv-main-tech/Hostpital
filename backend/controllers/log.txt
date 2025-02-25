@@ -1,0 +1,68 @@
+Timestamp: 2024-09-08T10:34:40.304Z
+Time Frame: evening
+Previous Treatments: , cold hip bath, full mud bath
+Updated Treatments: , cold hip bath, full mud bath, douche, sirodhara, herbal prakshlana
+
+Timestamp: 2024-09-10T15:42:21.839Z
+Patient Name: suresh
+Room Number: 505
+Time Frame: evening
+Previous Treatments: , ozone bagging, cold spinal spray
+Updated Treatments: , ozone bagging, cold spinal spray, cold hip bath
+
+Timestamp: 2024-09-14T14:46:02.115Z
+Patient Name: dhruv
+Room Number: Unknown
+Time Frame: night
+Previous Treatments: , urovasti abdomen, lwd, underwater massage, chiropractice
+Updated Treatments: , herbal pack, lwd
+
+Timestamp: 2025-02-25T14:23:13.898Z
+Patient Name: dhruv
+Room Number: 123
+Time Frame: evening
+Previous Treatments: 
+Updated Treatments: , boto
+
+Timestamp: 2025-02-25T14:23:18.440Z
+Patient Name: dhruv
+Room Number: 123
+Time Frame: evening
+Previous Treatments: , boto
+Updated Treatments: , boto
+
+Timestamp: 2025-02-25T14:24:06.747Z
+Patient Name: dhruv
+Room Number: 123
+Time Frame: evening
+Previous Treatments: , boto
+Updated Treatments: , boto
+
+Timestamp: 2025-02-25T14:24:27.060Z
+Patient Name: dhruv
+Room Number: 123
+Time Frame: night
+Previous Treatments: 
+Updated Treatments: , douche
+
+Timestamp: 2025-02-25T14:24:54.856Z
+Patient Name: testerpat
+Room Number: 202A
+Time Frame: morning
+Previous Treatments: 
+Updated Treatments: , underwater massage, warm hip bath(f)
+
+Timestamp: 2025-02-25T14:25:03.818Z
+Patient Name: testerpat
+Room Number: 202A
+Time Frame: evening
+Previous Treatments: 
+Updated Treatments: , hot spinal spray(f), warm hip bath
+
+Timestamp: 2025-02-25T14:25:10.754Z
+Patient Name: testerpat
+Room Number: 202A
+Time Frame: night
+Previous Treatments: 
+Updated Treatments: , oxygen therapy
+
