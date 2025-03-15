@@ -37,16 +37,16 @@ function App() {
 
   // Don't show navbar on login page
   if (
-    location.pathname === "/login" ||
+    location.pathname === "/" ||
     location.pathname === "/register" ||
     location.pathname === "/patient-register"
   ) {
     return (
       <Routes>
-        <Route path="/login" element={<Login />} />
+        <Route path="/" element={<Login />} />
         <Route path="/register" element={<Register />} />
         <Route path="/patient-register" element={<PatientRegister />} />
-        <Route path="*" element={<Navigate to="/login" replace />} />
+        <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     );
   }
@@ -249,7 +249,7 @@ function App() {
               }}
             >
               <Link
-                to={userRole === "doctor" ? "/doctor-dashboard" : "/"}
+                to={userRole === "doctor" ? "/doctor-dashboard" : "/home"}
                 style={{
                   color: "white",
                   textDecoration: "none",
@@ -303,11 +303,11 @@ function App() {
         )
       )}
       <Routes>
-        <Route path="/login" element={<Login />} />
+        <Route path="/" element={<Login />} />
         <Route path="/register" element={<Register />} />
 
         <Route
-          path="/"
+          path="/home"
           element={
             <RoleBasedRoute allowedRoles={["admin"]}>
               <Homepage />
@@ -394,7 +394,7 @@ function App() {
             ) : userRole === "doctor" ? (
               <Navigate to="/doctor-dashboard" replace />
             ) : (
-              <Navigate to="/" replace />
+              <Navigate to="/home" replace />
             )
           }
         />
